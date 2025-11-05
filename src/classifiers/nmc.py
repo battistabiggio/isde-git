@@ -28,6 +28,7 @@ class NMC(object):
 
     @property
     def centroids(self):
+        # returns centroids
         return self._centroids
 
     # @centroids.setter
